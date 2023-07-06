@@ -1,9 +1,0 @@
-.idea/
-.vscode/
-data/
-dist/
-import/
-logs/
-node_modules/
-plugins/
-.env
